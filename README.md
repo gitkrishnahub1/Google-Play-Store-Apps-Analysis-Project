@@ -23,7 +23,7 @@ Jupyter Notebook
 
 Project Highlights
 
-
+“Checked missing values; they were low and did not affect key analysis columns.”
 Ranked app categories by downloads and engagement.
 
 Found top apps in every genre and assessed daily downloads.
