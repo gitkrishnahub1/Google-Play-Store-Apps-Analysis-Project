@@ -17,7 +17,7 @@ Mapped category-by-category business potential.
 Tools Used
 
 
-Python (pandas, numpy)
+Python (pandas)
 
 Jupyter Notebook
 
